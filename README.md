@@ -2,6 +2,4 @@ Trabalho Avaliativo da Disciplina de DAC (Desenvolvimento de Aplicações Corpor
 instalar o docker 
 instalar o docker-compose 
 instalar maven na maquina
-rodar o comando mvn clean package na pasta do projeto atravez 
-
-
+rodar o comando mvn clean package na pasta do projeto atravez
